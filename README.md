@@ -9,7 +9,8 @@ Tools
 -------------
 [Soldering Iron](https://eshop.eca.ir/%D9%87%D9%88%DB%8C%D9%87-%D9%87%DB%8C%D8%AA%D8%B1-%D9%88-%D9%88%D8%A7%D9%86-%D9%82%D9%84%D8%B9/16964-%D9%87%D9%88%DB%8C%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-40-%D9%88%D8%A7%D8%AA-%D9%85%D8%A7%D8%B1%DA%A9-tni-u-%D9%85%D8%AF%D9%84-tu-093c.html 'هویه سرامیکی 40 وات با نوک قابل تعویض') , 
 [Soldering Iron Tips](https://www.digikala.com/product/dkp-11218677/%D9%86%D9%88%DA%A9-%D9%87%D9%88%DB%8C%D9%87-40-%D9%88%D8%A7%D8%AA-%D9%85%D8%AF%D9%84-%D8%AD%D9%85%D8%A7%D9%85-%D9%82%D9%84%D8%B9-%DA%A9%D8%AF-pv630/ 'نوک هویه معمولی برای قلع اندود کردن') , 
-[900M-T-2C](https://asrtools.com/product/mechanic-lead-free-solder-tip-900m-t-2c-mcn300/ 'نوک هویه سرامیکی، مناسب لحیم کاری اس ام دی') , 
+[900M-T-2C](https://asrtools.com/product/mechanic-lead-free-solder-tip-900m-t-2c-mcn300/ 'نوک هویه سرامیکی، مناسب لحیم کاری اس ام دی')
+
 [Soldering Stand](https://asrtools.com/product/soldering-stand-somo-sm-103/ ' با قابلیت نصب سیم لحیمپایه هویه') , 
 [Soldering Sponge](https://asrtools.com/product/geb3550-soldering-iron-cleaning-sponge/ 'اسفنج پاک کننده نوک هویه') , 
 [Tip Cleaner](https://asrtools.com/product/%d9%be%d8%a7%da%a9-%da%a9%d9%86%d9%86%d8%af%d9%87-%d9%86%d9%88%da%a9-%d9%87%d9%88%db%8c%d9%87-%db%8c%d8%a7%da%a9%d8%b3%d9%88%d9%86-%d9%85%d8%af%d9%84-yx-b3/ 'پاک کننده سیمی نوک هویه') , 
@@ -26,21 +27,46 @@ Tools
 [Asahi 0.8](https://asrtools.com/product/asahi-solder-wire-63-37-0-8mm-100gr-whith-flux-cf-10/ 'سیم لحیم 0.8 آساهی') , 
 [Asahi 0.4](https://asrtools.com/product/fake-asahi-solder-wire-63-37-0-4mm-100gr/ 'سیم لحیم 0.4 آساهی') , 
 [Asahi 0.2](https://asrtools.com/product/asahi-solder-wire-63-37-0-25mm-100gr-whith-flux-cf-10/ 'سیم لحیم 0.25 آساهی') , 
-[Behnix 0.8](https://eshop.eca.ir/%D8%B3%DB%8C%D9%85-%D9%84%D8%AD%DB%8C%D9%85-%D8%AE%D9%85%DB%8C%D8%B1-%D9%88-%D8%B3%D8%A7%DA%86%D9%85%D9%87-%D9%82%D9%84%D8%B9/10799-%D8%B3%DB%8C%D9%85-%D9%84%D8%AD%DB%8C%D9%85-08mm-100g-%D9%85%D8%A7%D8%B1%DA%A9-%D8%A8%D9%87%DB%8C%D9%86%DA%A9%D8%B3.html 'سیم لحیم 0.8 بهنیکس') , 
+[Behnix 0.8](https://eshop.eca.ir/%D8%B3%DB%8C%D9%85-%D9%84%D8%AD%DB%8C%D9%85-%D8%AE%D9%85%DB%8C%D8%B1-%D9%88-%D8%B3%D8%A7%DA%86%D9%85%D9%87-%D9%82%D9%84%D8%B9/10799-%D8%B3%DB%8C%D9%85-%D9%84%D8%AD%DB%8C%D9%85-08mm-100g-%D9%85%D8%A7%D8%B1%DA%A9-%D8%A8%D9%87%DB%8C%D9%86%DA%A9%D8%B3.html 'سیم لحیم 0.8 بهنیکس')
+
 [Solder Paste](https://lionelectronic.ir/products/3656-%D8%AE%D9%85%DB%8C%D8%B1-%D9%82%D9%84%D8%B9-%D8%B3%D8%B1%D9%86%DA%AF%DB%8C-RELIFE-Solder-Paste-RL-403 'خمیر قلع سرنگی 183 درجه') , 
 [Oil Solder](https://asrtools.com/product/felder-lotfet-solder-oil-solder-paste-50gr/ 'روغن لحیم لاتفیت') , 
 [Soldering Flux](https://lionelectronic.ir/products/3558-%D8%AE%D9%85%DB%8C%D8%B1-%D9%81%D9%84%DA%A9%D8%B3-%D8%B3%D8%B1%D9%86%DA%AF%DB%8C-RMA-223-UV 'فلاکس سرنگی') , 
-[Tube Piston](https://asrtools.com/product/mechanic-p08/ 'اهرم تزریق فلکس و خمیر قلع سرنگی') , 
+[Tube Piston](https://asrtools.com/product/mechanic-p08/ 'اهرم تزریق فلکس و خمیر قلع سرنگی') 
 
 [Contact Cleaner 600](https://asrtools.com/product/ok-tuner-600-contact-cleaner-300ml/ 'اسپری کنتاکتور شور خشک 600') , 
 [Alcohol Bottle](https://asrtools.com/product/yaxun-yx-60/ 'ظرف پمپی نگهدارنده الکل و تینر') , 
 [Brush](https://asrtools.com/product/antistatic-brush-model-esd-40 'فرچه آنتی استاتیک') , 
-[Ultasonic](https://asrtools.com/product/ultrasonic-cleaner-yaxun-yx2000a/ 'حمام التراسونیک') و 
+[Ultasonic](https://asrtools.com/product/ultrasonic-cleaner-yaxun-yx2000a/ 'حمام التراسونیک') 
+
+[Electric Vacuum Desoldering Iron](https://asrtools.com/product/goot-tp-100-electric-vacuum-desoldering-iron-75w/ 'قلع کش برقی') ,
 [Desoldering Pump](https://asrtools.com/product/proskit-8pk-366n-b-desoldering-pump/ 'قلع کش پمپی دستی') , 
 [Desoldering Wick](https://asrtools.com/product/relife-rl-1520/ 'قلع کش سیمی') , 
+
 [Carving Knife](https://asrtools.com/product/jy-1001-gh/ 'کاتر قلمی') , 
 [Micro Cutting Plier](https://asrtools.com/product/proskit-pk-5101-c-5101c-micro-cutting-plier/ 'کف چین') , 
 [Organayzer](https://irepairtools.ir/product/%D8%A7%D8%B3%D8%AA%D9%86%D8%AF-%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-relife-rl-001d/ 'نظم دهنده ابزار') , 
+[Mini Drill](https://asrtools.com/product/variable-speed-rotary-tool-kit-proskit-pt-5501i/ 'مینی دریل') 
+
+[Circuit Board Clamping](https://eshop.eca.ir/%DA%AF%DB%8C%D8%B1%D9%87-%D9%85%D9%88%D9%86%D8%AA%D8%A7%DA%98-%D9%88-%D9%BE%D8%A7%DB%8C%D9%87-%D9%87%D9%88%DB%8C%D9%87/10942-%DA%AF%DB%8C%D8%B1%D9%87-%D9%85%D9%88%D9%86%D8%AA%D8%A7%DA%98-%D8%B1%D9%88%D9%85%DB%8C%D8%B2%DB%8C-%D9%BE%D8%B1%D9%88%D8%B3%DA%A9%DB%8C%D8%AA-proskit-%D9%85%D8%AF%D9%84-sn-390.html 'گیره نگهدارنده پی سی بی') , 
+[Multifunction Clamp](https://eshop.eca.ir/%DA%AF%DB%8C%D8%B1%D9%87-%D9%85%D9%88%D9%86%D8%AA%D8%A7%DA%98-%D9%88-%D9%BE%D8%A7%DB%8C%D9%87-%D9%87%D9%88%DB%8C%D9%87/21090-%DA%AF%DB%8C%D8%B1%D9%87-%D8%B1%D9%88%D9%85%DB%8C%D8%B2%DB%8C-%D9%84%D9%88%D9%BE-%D9%88-%D9%BE%D8%B1%DB%8C-%D9%87%DB%8C%D8%AA%D8%B1-yaxun-%D9%85%D8%AF%D9%84-yx-101.html 'گیره نگهدارنده پی سی بی برای لوپ، هیتر و پری هیتر') , 
+[Rotating Fixture](https://irepairtools.ir/product/%da%af%db%8c%d8%b1%d9%87-%d8%a8%d8%b1%d8%af-relife-rl-601i/ 'گیره نگهدارنده ایسی و چیپست') , 
+[Rotating Fixture](https://asrtools.com/product/universal-clamp-pcb-holder-mehr-c1-70mm/ 'گیره نگهدارنده مهر') 
+
+[Analog Loop](https://asrtools.com/product/rf4-rf7050tvp-microscope-2/ 'لوپ آنالوگ') , 
+[Digital Loop](https://asrtools.com/product/yaxun-ak-23/ 'لوپ دیجیتال') , 
+[Digital Microscope](https://asrtools.com/product/digital-microscope-g1600-1080p/ 'میکروسکوپ دیجیتال') , 
+[Magnifier](https://asrtools.com/product/magnifier-lamp-rt301/ 'ذرزه بین پایه دار به همراه چراغ')
+
+[Soldering Mat](https://asrtools.com/product/soldering-mat-s-160/ 'پد نسوز لحیم کاری') , 
+[Robe](https://www.digikala.com/product/dkp-1779080/%D8%B1%D9%88%D9%BE%D9%88%D8%B4-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87-%D9%85%D8%AF%D9%84-%DA%A9%DB%8C%D9%85%DB%8C%D8%A7-110/ 'روپوس آزمایشگاهی') , 
+[Safety Goggles](https://asrtools.com/product/star-optic-safety-goggles-uv400/ 'عینک محافظ چشم') 
+
+
+
+
+
+
 
 
 
@@ -54,6 +80,5 @@ Tools
 
 Contact Us
 -------------
-[![](https://img.shields.io/badge/E-Mail-yellow)](mailto:aKaReZa75@gmail.com)
 [![](https://img.shields.io/badge/You-Tube-red)](https://www.youtube.com/@aKaReZa75)
 [![](https://img.shields.io/badge/Linked-in-blue)](https://www.linkedin.com/in/akareza75)
