@@ -62,23 +62,8 @@ Tools
 [Robe](https://www.digikala.com/product/dkp-1779080/%D8%B1%D9%88%D9%BE%D9%88%D8%B4-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87-%D9%85%D8%AF%D9%84-%DA%A9%DB%8C%D9%85%DB%8C%D8%A7-110/ 'روپوس آزمایشگاهی') , 
 [Safety Goggles](https://asrtools.com/product/star-optic-safety-goggles-uv400/ 'عینک محافظ چشم') 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Contact Us
 -------------
+[![](https://img.shields.io/badge/E-Mail-yellow)](mailto:aKaReZa75@gmail.com)
 [![](https://img.shields.io/badge/You-Tube-red)](https://www.youtube.com/@aKaReZa75)
 [![](https://img.shields.io/badge/Linked-in-blue)](https://www.linkedin.com/in/akareza75)
