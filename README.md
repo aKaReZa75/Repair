@@ -41,12 +41,12 @@ Tools
 
 [Electric Vacuum Desoldering Iron](https://asrtools.com/product/goot-tp-100-electric-vacuum-desoldering-iron-75w/ 'قلع کش برقی') ,
 [Desoldering Pump](https://asrtools.com/product/proskit-8pk-366n-b-desoldering-pump/ 'قلع کش پمپی دستی') , 
-[Desoldering Wick](https://asrtools.com/product/relife-rl-1520/ 'قلع کش سیمی') , 
+[Desoldering Wick](https://asrtools.com/product/relife-rl-1520/ 'قلع کش سیمی') 
 
 [Carving Knife](https://asrtools.com/product/jy-1001-gh/ 'کاتر قلمی') , 
 [Micro Cutting Plier](https://asrtools.com/product/proskit-pk-5101-c-5101c-micro-cutting-plier/ 'کف چین') , 
 [Organayzer](https://irepairtools.ir/product/%D8%A7%D8%B3%D8%AA%D9%86%D8%AF-%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-relife-rl-001d/ 'نظم دهنده ابزار') , 
-[Mini Drill](https://asrtools.com/product/variable-speed-rotary-tool-kit-proskit-pt-5501i/ 'مینی دریل') 
+[Mini Drill](https://asrtools.com/product/%d9%85%d8%ac%d9%85%d9%88%d8%b9%d9%87-160-%d8%b9%d8%af%d8%af%db%8c-%d9%81%d8%b1%d8%b2-%d8%a7%d9%86%da%af%d8%b4%d8%aa%db%8c-%d9%85%d8%af%d9%84-wl-800/ 'مینی دریل') 
 
 [Circuit Board Clamping](https://eshop.eca.ir/%DA%AF%DB%8C%D8%B1%D9%87-%D9%85%D9%88%D9%86%D8%AA%D8%A7%DA%98-%D9%88-%D9%BE%D8%A7%DB%8C%D9%87-%D9%87%D9%88%DB%8C%D9%87/10942-%DA%AF%DB%8C%D8%B1%D9%87-%D9%85%D9%88%D9%86%D8%AA%D8%A7%DA%98-%D8%B1%D9%88%D9%85%DB%8C%D8%B2%DB%8C-%D9%BE%D8%B1%D9%88%D8%B3%DA%A9%DB%8C%D8%AA-proskit-%D9%85%D8%AF%D9%84-sn-390.html 'گیره نگهدارنده پی سی بی') , 
 [Multifunction Clamp](https://eshop.eca.ir/%DA%AF%DB%8C%D8%B1%D9%87-%D9%85%D9%88%D9%86%D8%AA%D8%A7%DA%98-%D9%88-%D9%BE%D8%A7%DB%8C%D9%87-%D9%87%D9%88%DB%8C%D9%87/21090-%DA%AF%DB%8C%D8%B1%D9%87-%D8%B1%D9%88%D9%85%DB%8C%D8%B2%DB%8C-%D9%84%D9%88%D9%BE-%D9%88-%D9%BE%D8%B1%DB%8C-%D9%87%DB%8C%D8%AA%D8%B1-yaxun-%D9%85%D8%AF%D9%84-yx-101.html 'گیره نگهدارنده پی سی بی برای لوپ، هیتر و پری هیتر') , 
