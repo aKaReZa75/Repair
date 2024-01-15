@@ -31,7 +31,18 @@ Tools
 [Oil Solder](https://asrtools.com/product/felder-lotfet-solder-oil-solder-paste-50gr/ 'روغن لحیم لاتفیت') , 
 [Soldering Flux](https://lionelectronic.ir/products/3558-%D8%AE%D9%85%DB%8C%D8%B1-%D9%81%D9%84%DA%A9%D8%B3-%D8%B3%D8%B1%D9%86%DA%AF%DB%8C-RMA-223-UV 'فلاکس سرنگی') , 
 [Tube Piston](https://asrtools.com/product/mechanic-p08/ 'اهرم تزریق فلکس و خمیر قلع سرنگی') , 
-[Contact Cleaner 600](https://asrtools.com/product/ok-tuner-600-contact-cleaner-300ml/ 'اسپری کنتاکتور شور خشک 600')
+
+[Contact Cleaner 600](https://asrtools.com/product/ok-tuner-600-contact-cleaner-300ml/ 'اسپری کنتاکتور شور خشک 600') , 
+[Alcohol Bottle](https://asrtools.com/product/yaxun-yx-60/ 'ظرف پمپی نگهدارنده الکل و تینر') , 
+[Brush](https://asrtools.com/product/antistatic-brush-model-esd-40 'فرچه آنتی استاتیک') , 
+[Ultasonic](https://asrtools.com/product/ultrasonic-cleaner-yaxun-yx2000a/ 'حمام التراسونیک') و 
+[Desoldering Pump](https://asrtools.com/product/proskit-8pk-366n-b-desoldering-pump/ 'قلع کش پمپی دستی') , 
+[Desoldering Wick](https://asrtools.com/product/relife-rl-1520/ 'قلع کش سیمی') , 
+[Carving Knife](https://asrtools.com/product/jy-1001-gh/ 'کاتر قلمی') , 
+[Micro Cutting Plier](https://asrtools.com/product/proskit-pk-5101-c-5101c-micro-cutting-plier/ 'کف چین') , 
+[Organayzer](https://irepairtools.ir/product/%D8%A7%D8%B3%D8%AA%D9%86%D8%AF-%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-relife-rl-001d/ 'نظم دهنده ابزار') , 
+
+
 
 
 
