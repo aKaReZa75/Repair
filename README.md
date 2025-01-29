@@ -159,7 +159,7 @@ If you have any questions or issues, you can raise them through the **"Issues"**
 
 I will review and respond to your issue as soon as possible. Your participation helps improve the repository for everyone!  
 
-### Tips:  
+**Tips**:  
 - Before creating a new issue, please check the **"Closed"** section to see if your question has already been answered.  
    ![Closed section](Images/Step6.png)  
 - Write your question clearly and respectfully to ensure a faster and better response.  
