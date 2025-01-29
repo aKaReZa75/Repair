@@ -136,19 +136,56 @@ git clone https://github.com/aKaReZa75/Repair
 - [**Robe**](https://www.digikala.com/product/dkp-1779080/%D8%B1%D9%88%D9%BE%D9%88%D8%B4-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87-%D9%85%D8%AF%D9%84-%DA%A9%DB%8C%D9%85%DB%8C%D8%A7-110/): Laboratory robe
 - [**Safety Goggles**](https://asrtools.com/product/star-optic-safety-goggles-uv400/): Safety goggles
 
-# 📜 License
-This project is licensed under the GPL-3.0 License. This license grants you the freedom to use, modify, and distribute the project as long as you:
-- Credit the original authors: Give proper attribution to the original creators.
-- Disclose source code: If you distribute a modified version, you must make the source code available under the same GPL license.
-- Maintain the same license: When you distribute derivative works, they must be licensed under the GPL-3.0 too.
-- Feel free to use it in your projects, but make sure to comply with the terms of this license.
-  
+# 📝 How to Ask Questions
+If you have any questions or issues, you can raise them through the **"Issues"** section of this repository. Here's how you can do it:  
+
+1. Navigate to the **"Issues"** tab at the top of the repository page.  
+
+  ![Issues](Images/Step3.png)
+
+2. Click on the **"New Issue"** button.  
+   
+  ![New Issue](Images/Step4.png)
+
+3. In the **Title** field, write a short summary of your issue or question.  
+
+4. In the "Description" field, detail your question or issue as thoroughly as possible. You can use text formatting, attach files, and assign the issue to someone if needed. You can also use text formatting (like bullet points or code snippets) for better readability.  
+
+5. Optionally, you can add **labels**, **type**, **projects**, or **milestones** to your issue for better categorization.  
+
+6. Click on the **"Submit new issue"** button to post your question or issue.
+   
+  ![Submeet New Issue](Images/Step5.png)
+
+I will review and respond to your issue as soon as possible. Your participation helps improve the repository for everyone!  
+
+### Tips:  
+- Before creating a new issue, please check the **"Closed"** section to see if your question has already been answered.  
+   ![Closed section](Images/Step6.png)  
+- Write your question clearly and respectfully to ensure a faster and better response.  
+- While the examples provided above are in English, feel free to ask your questions in **Persian (فارسی)** as well. There is no difference in how they will be handled!  
+
+**Note:** Pages and interfaces may change over time, but the steps to create an issue generally remain the same.  
+
+# 🤝 Contributing to the Repository
+If you want to update or modify the Repository:
+- Fork this repository.
+- Make your changes in a new branch.
+- Submit a **Pull Request** with a detailed description of your changes.
+
 # 🌟 Support Me
 If you found this repository useful:
 - Subscribe to my [YouTube Channel](https://www.youtube.com/@aKaReZa75).
 - Share this repository with others.
 - Give this repository and my other repositories a star.
 - Follow my [GitHub account](https://github.com/aKaReZa75).
+
+# 📜 License
+This project is licensed under the GPL-3.0 License. This license grants you the freedom to use, modify, and distribute the project as long as you:
+- Credit the original authors: Give proper attribution to the original creators.
+- Disclose source code: If you distribute a modified version, you must make the source code available under the same GPL license.
+- Maintain the same license: When you distribute derivative works, they must be licensed under the GPL-3.0 too.
+- Feel free to use it in your projects, but make sure to comply with the terms of this license.
   
 # ✉️ Contact Me
 Feel free to reach out to me through any of the following platforms:
