@@ -1,4 +1,4 @@
-# 🚀 How to Use
+# 💻 How to Use Git and GitHub
 
 First, open **Git Bash** :
 -  Open the folder in **File Explorer** where you want the library to be stored.
