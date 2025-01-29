@@ -59,7 +59,7 @@ git clone https://github.com/aKaReZa75/Repair
   Watch the assembly and testing of a USB-to-UART converter module designed earlier. Learn two techniques for soldering SMD ICs and key points for testing the module effectively.  
 
 
-# Essential Tools for Soldering
+# 🛠️ Essential Tools for Soldering
 ### Soldering Irons and Tips
 - [**Soldering Iron (Ceramic, 40W)**](https://eshop.eca.ir/%D9%87%D9%88%DB%8C%D9%87-%D9%87%DB%8C%D8%AA%D8%B1-%D9%88-%D9%88%D8%A7%D9%86-%D9%82%D9%84%D8%B9/16964-%D9%87%D9%88%DB%8C%D9%87-%D8%B3%D8%B1%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-40-%D9%88%D8%A7%D8%AA-%D9%85%D8%A7%D8%B1%DA%A9-tni-u-%D9%85%D8%AF%D9%84-tu-093c.html): Ceramic soldering iron 40W with replaceable tip
 - [**Soldering Iron (New Gen)**](https://www.asangsm.com/product/%d9%87%d9%88%db%8a%d9%87-%d8%af%d9%88%d9%82%d9%84%d9%88-sugun-t1602/): New generation soldering iron, capable of reaching the set temperature in approximately 2 seconds
@@ -136,14 +136,14 @@ git clone https://github.com/aKaReZa75/Repair
 - [**Robe**](https://www.digikala.com/product/dkp-1779080/%D8%B1%D9%88%D9%BE%D9%88%D8%B4-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87-%D9%85%D8%AF%D9%84-%DA%A9%DB%8C%D9%85%DB%8C%D8%A7-110/): Laboratory robe
 - [**Safety Goggles**](https://asrtools.com/product/star-optic-safety-goggles-uv400/): Safety goggles
 
-## 🛠️ License
+## 📜 License
 This project is licensed under the GPL-3.0 License. This license grants you the freedom to use, modify, and distribute the project as long as you:
 - Credit the original authors: Give proper attribution to the original creators.
 - Disclose source code: If you distribute a modified version, you must make the source code available under the same GPL license.
 - Maintain the same license: When you distribute derivative works, they must be licensed under the GPL-3.0 too.
 - Feel free to use it in your projects, but make sure to comply with the terms of this license.
   
-## ⭐ Support Me
+## 🌟 Support Me
 If you found this library useful:
 - Subscribe to my [YouTube Channel](https://www.youtube.com/@aKaReZa75).
 - Share this repository with others.
