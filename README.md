@@ -1,3 +1,35 @@
+# 🚀 How to Use
+
+First, open **Git Bash** :
+-  Open the folder in **File Explorer** where you want the library to be stored.
+-  **Right-click** inside the folder and select the option **"Open Git Bash here"** to open **Git Bash** in that directory.
+
+![open Git Bash](Images/Step0.png)
+
+> Note: If you do not see the "Open Git Bash here" option, it means that Git is not installed on your system.
+> 
+>  You can download and install Git from [this link](https://git-scm.com/downloads).
+>  
+>  For a tutorial on how to install and use Git, check out [this video](https://youtu.be/BsykgHpmUt8).
+  
+-  Once **Git Bash** is open, run the following command to clone the repository:
+
+ ```bash
+git clone https://github.com/aKaReZa75/Repair
+```
+- You can copy the above command by either:
+- Clicking on the **Copy** button on the right of the command.
+- Or select the command text manually and press **Ctrl + C** to copy.
+- To paste the command into your **Git Bash** terminal, use **Shift + Insert**.
+
+![Clone the Repository](Images/Step1.png)
+
+- Then, press Enter to start the cloning operation and wait for the success message to appear.
+
+![Open the Library File](Images/Step2.png)
+
+**Note:** Please keep in mind that the numbers displayed in the image might vary when you perform the same actions. This is because repositories are continuously being updated and expanded. Nevertheless, the overall process remains unchanged.
+
 # 🛠️ Repair Videos  
 
 - [aKaReZa 2 - Repair VC97](https://youtu.be/h5BaUcLpn8E)  
