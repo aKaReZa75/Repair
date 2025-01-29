@@ -144,7 +144,7 @@ This project is licensed under the GPL-3.0 License. This license grants you the 
 - Feel free to use it in your projects, but make sure to comply with the terms of this license.
   
 #🌟 Support Me
-If you found this library useful:
+If you found this useful:
 - Subscribe to my [YouTube Channel](https://www.youtube.com/@aKaReZa75).
 - Share this repository with others.
 - Give this repository and my other repositories a star.
