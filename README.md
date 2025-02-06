@@ -5,7 +5,7 @@ In this repository, all aspects of repairs are covered. Introducing necessary eq
 > It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
 
 # 🔗 Resources
-  Here you'll find a collection of useful links and documents related to the AVR microcontroller and its applications.   
+  Here you will find a collection of useful links and documents related to repair and soldering.     
   These resources include datasheets, tutorials, and essential tools to get you started and guide you through.
   
 > [!TIP]
