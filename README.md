@@ -1,9 +1,6 @@
 # Repair
 In this repository, all aspects of repairs are covered. Introducing necessary equipment along with their purchase lists from reputable websites, performing soldering on various types of boards, and getting acquainted with their circuits. Additionally, essential files required for certain repairs are also available.
 
-> [!CAUTION]
-> It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
-
 <table>
   <tr>
   <td valign="top">
@@ -22,7 +19,17 @@ In this repository, all aspects of repairs are covered. Introducing necessary eq
              alt="aKaReZa 95 - Programming, Git - PART B Thumbnail"/>
       </a>
     </td>
+
+  </td>
   </tr>
+  <tr>
+  <td colspan="2">
+
+  > [!CAUTION]
+  > It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
+      
+  </td>
+  </tr>  
 </table>
 
 # 🔗 Resources
