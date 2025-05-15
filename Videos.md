@@ -113,6 +113,43 @@ In this document, we can access repair-related videos, including assembly and so
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/JnmfULXj2iA">aKaReZa 51 – USB to TTL Soldering</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        Watch the assembly and testing of a USB-to-UART converter module designed earlier. Learn two techniques for soldering SMD ICs and key points for testing the module effectively.
+      </p>
+    </td>
+    <td width="360" valign="top" style="padding: 0;">
+      <a href="https://youtu.be/JnmfULXj2iA">
+        <img src="https://img.youtube.com/vi/JnmfULXj2iA/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 51 – USB to TTL Soldering Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/UuL0Z89b1r0">aKaReZa 100 – Repair, RCS, AVR - PART A</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        Learn the full soldering and assembly process of the RCS-AVR board. This video walks you through every step, including soldering power inputs, voltage regulators (12V, 5V, 3.3V), microcontroller placement, relay and LCD installation, and performing circuit tests after each phase to ensure proper functionality. A must-watch for anyone wanting practical experience in microcontroller board repair and troubleshooting.
+      </p>
+    </td>
+    <td width="360" valign="top">
+      <a href="https://youtu.be/UuL0Z89b1r0">
+        <img src="https://img.youtube.com/vi/UuL0Z89b1r0/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 100 – Repair, RCS, AVR - PART A Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 
