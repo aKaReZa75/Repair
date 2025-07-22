@@ -1,6 +1,50 @@
 # Videos
 In this document, we can access repair-related videos, including assembly and soldering videos, in a categorized manner.
 
+```plaintext
+├── Repair
+│   ├── [aKaReZa 2 - Repair VC97]
+│   │   ├─ Faults — Measurement errors (resistance, capacitance, diode, continuity).
+│   │   └─ Restoration — Diagnosis, part replacement, testing.
+│   │
+│   ├── [aKaReZa 4 - Repair LED Bulb]
+│   │   ├─ Tools — LED tester, Zener diode, preheater, hot plate.
+│   │   ├─ Diagnostics — Fault detection and teardown.
+│   │   └─ Recovery — Component replacement and testing.
+│   │
+│   └── [aKaReZa 26 - Repair, VC97 EEPROM IC]
+│       ├─ EEPROM — AT24C02 read/write, simulation.
+│       ├─ Diagnosis — EEPROM faults and fixes.
+│       └─ Reassembly — Final testing and soldering tips.
+|
+└── Soldering
+    ├── [aKaReZa 38 - Repair, Soldering Tools]
+    │   ├─ Tools — Soldering iron, SMD/BGA stations.
+    │   └─ Selection — Recommended models and usage tips.
+    │
+    ├── [aKaReZa 42 - Repair, Arduino 7Segment Shield Soldering]
+    │   ├─ Assembly — SMD/THD soldering techniques.
+    │   └─ Components — Buttons, ICs, displays, headers.
+    │
+    ├── [aKaReZa 51 - Repair, USB to TTL Soldering]
+    │   ├─ Technique — Paste usage and layout adjustment.
+    │   └─ Testing — Final validation of UART converter.
+    │
+    ├── [aKaReZa 100 - Repair, RCS, AVR - PART A]
+    │   ├─ Power — 12V, 5V, 3.3V regulator soldering.
+    │   ├─ Core — Microcontroller, relay, LCD setup.
+    │   └─ Validation — Sectional testing and boot checks.
+    │
+    ├── [aKaReZa 102 - Repair, ATMEGA328 Soldering]
+    │   ├─ Steps — Voltage input, regulator, MCU soldering.
+    │   ├─ UART — CH340 setup and USB Type-C port soldering.
+    │   └─ Testing — Full board functionality check.
+    │
+    └── [aKaReZa 104 - Repair, RCS AVR Soldering - PART B]
+        ├─ Assembly — 4V regulator, Quectel M66, SIM connector.
+        └─ Final — Component mounting and system test.
+```
+
 # 🛠️ Repair Videos  
 <table style="border-collapse: collapse;">
   <tr>
